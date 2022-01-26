@@ -85,7 +85,7 @@ html{
     display:flex;
     flex-direction: column;
     background-color:rgba(0,0,0,0.5);
-    
+    padding:60px;
     align-items:center;
 }
 
@@ -111,6 +111,7 @@ html{
     flex-direction: column;
     background-color:yellowgreen;
     align-items:center;
+    padding:60px;
 }
 .education h1{
     margin:60px;

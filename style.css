@@ -187,6 +187,7 @@ html{
     flex-direction: column;
     background-color:black;
     align-items:center;
+    
 }
 #contact h1{
     margin:50px;
@@ -217,6 +218,7 @@ html{
     border-radius:20px;
     background-color:black;
     color:white;
+    margin-bottom:50px;
 }
 #submit:hover{
     border-color: green;
